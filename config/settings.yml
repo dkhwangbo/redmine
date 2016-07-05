@@ -20,7 +20,7 @@
 # Settings can be defined through the application in Admin -> Settings
 
 app_title:
-  default: Redmine
+  default: Sfhera
 app_subtitle:
   default: Project management
 welcome_text:
@@ -89,7 +89,7 @@ cache_formatted_text:
 wiki_compression:
   default: ""
 default_language:
-  default: en
+  default: pt-BR
 force_default_language_for_anonymous:
   default: 0
 force_default_language_for_loggedin:
